@@ -1,6 +1,0 @@
-"""
-
-Student Manager
-
-
-"""
