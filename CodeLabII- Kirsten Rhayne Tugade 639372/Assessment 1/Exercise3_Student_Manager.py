@@ -1,7 +1,7 @@
 """
 ************************************
 
-        Alexa Tell Me A Joke
+        Student Manager
 
 ************************************
 """
@@ -336,3 +336,4 @@ if __name__ == "__main__":
     except Exception:
         pass
     app.mainloop()
+
